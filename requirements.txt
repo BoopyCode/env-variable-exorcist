@@ -1,0 +1,2 @@
+# No external dependencies - uses Node.js standard library only
+# This tool runs on pure JavaScript and determination
